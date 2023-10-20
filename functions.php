@@ -190,9 +190,7 @@ function startup() {
         }
 
         $data = $links;
-
         
-
         return $data;
 
 }
